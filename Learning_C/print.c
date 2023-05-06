@@ -13,5 +13,7 @@ int main()
     printf("This is another way to print using printf. ");
     printf("Printf does not add a new line on its own so needs \\n \n");
 
+    printf("This is the first line.\nThis is the 2nd line\n");
+
     return(0);
 }
